@@ -5,6 +5,6 @@ public class test2 {
         System.out.println("ccc");
         System.out.println("ddd");
         System.out.println("this is master");
-        System.out.println("this is third hotfix's test for merge");
+        System.out.println("this is four hotfix's test for merge");
     }
 }
